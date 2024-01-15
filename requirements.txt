@@ -1,0 +1,9 @@
+unstructured
+tiktoken
+langchain
+streamlit
+pinecone-client
+pypdf
+streamlit_chat 
+sentence_transformers
+openai
